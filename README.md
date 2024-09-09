@@ -9,6 +9,5 @@
 ![8](tela2pt2.png)
 ![9](tela2pt3.png)
 ![10](tela3pt1.png)
-![11](tela3pt2.png)
-![12](tela3pt2semrodape.png)
+![11](tela3pt2semrodape.png)
 
