@@ -5,6 +5,7 @@
 **O site irá fornecer menus superiores com cada sessão de receitas, por exemplo bolos, sopas, salgados, etc.**
 
 **O feed inicial irá contar com as receitas mais bem avaliadas do site, assim se você for uma pessoa indecisa igual aquela sua ex namorada do colégio que te largou por um tal Everson que tinha uma cg 162cc vermelha com escapamento quebrado e era mais legal que você, você vai ter uma ideia do que quer ter na janta.**
+
 ![1](telainicialpt1.png)
 ![2](telainicialpt2.png)
 ![3](telainicialpt3.png)
