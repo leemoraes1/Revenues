@@ -14,10 +14,19 @@
 
 ###
 ## Segunda Tela
+**Aqui você poderá ver como será a apresentação das receitas após pesquisar o que deseja nesse 
+exemplo mostraremos oque a paginá irá exibir por uma pesquisa de "Pratos Rápidos"
+podendo favoritar/salvar as receitas para serem vistas depois.**
+
 ![7](tela2pt1.png)
 ![8](tela2pt2.png)
 ![9](tela2pt3.png)
 ## Terceira Tela
+
+**Essa paginá irá exibir como a receita será apresentada após ser selecionada
+com opções de comentar, favoritar alé de mostrar quantos pratos e o tempo de preparo
+da receita!**
+
 ![10](tela3pt1.png)
 ![11](tela3pt2semrodape.png)
 
